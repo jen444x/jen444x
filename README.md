@@ -32,7 +32,7 @@
 ## 🛠️ Skills & Technologies
 **Languages:** JavaScript, Python, SQL, C++  
 **Frontend:** React, React Native, HTML, CSS  
-**Backend & Data:** Node.js, Express.js, PostgreSQL, REST APIs, Selenium (Web Scraping), TensorFlow, Scikit-learn  
+**Backend & Data:** Node.js, Express.js, PostgreSQL, REST APIs, Selenium, TensorFlow, Scikit-learn  
 **Collaboration:** Git/GitHub, Agile/Scrum
 
 
