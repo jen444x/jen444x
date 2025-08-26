@@ -1,8 +1,8 @@
 # 👋 Hi, I’m Jennifer Miranda
 
 🎓 Recent Computer Science graduate (CSUB, May 2025)  
-💻 Software Engineer | Backend & Full-Stack | Product Owner Intern @ FWD Dynamics  
-🚀 Passionate about building scalable systems, clean code, and impactful products
+💻 Software Engineer (SWE Intern @ FWD Dynamics) | Backend & Full-Stack 
+🔧 I like working close to the data, building APIs, and making projects actually run in the real world
 
 ---
 
@@ -25,30 +25,19 @@
 - **PlayPals** → Full-stack social app (React Native, Node, PostgreSQL, Socket.io) with real-time chat + friend matching  
 - **Job Alert Automation** → Python + Selenium job scraper with push notifications (cloud-deployable)  
 - **Credit Score Predictor** → Neural network trained on 80K+ records (~75% accuracy) using TensorFlow  
-- **Rocky Concrete** → Professional business website (Astro, Tailwind, GitHub Pages deployment)  
+- **Rocky Concrete** → Professional business website (HTML, CSS, JS) — live and used by real clients
 
 ---
 
-## ⚙️ Tech Stack
-**Languages**: JavaScript (Node.js, React/Next.js), Python, SQL, C++  
-**Frameworks/Tools**: Express, PostgreSQL, TensorFlow, Scikit-learn, Selenium  
-**Other**: Agile/Scrum, GitHub Actions, Docker basics, REST APIs, Authentication (JWT, bcrypt)
+## 🛠️ Skills & Technologies
+**Languages:** JavaScript, Python, SQL, C++  
+**Frontend:** React, React Native, HTML, CSS  
+**Backend & Data:** Node.js, Express.js, PostgreSQL, REST APIs, Selenium (Web Scraping), TensorFlow, Scikit-learn  
+**Collaboration:** Git/GitHub, Agile/Scrum
 
----
-
-## 📊 Quick Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jen444x&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jen444x&layout=compact&theme=tokyonight&hide_border=true" height="150" />
-</p>
 
 ---
 
 ## 📫 Let’s Connect
-- [LinkedIn](https://www.linkedin.com/in/jenmiranda)  
-- [Email](mailto:your-email@example.com)  
-- (Future: [Portfolio Website](#))  
-
----
-
-💡 *Always building, learning, and pushing for growth. If you’d like to collaborate or chat about backend, full-stack, or ML projects — let’s connect!*
+- [LinkedIn](www.linkedin.com/in/jennifer-miranda-892687239)  
+- [Email](mailto:miranda.jennifer0407@gmail.com)  
