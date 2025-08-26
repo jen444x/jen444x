@@ -2,7 +2,7 @@
 
 🎓 Recent Computer Science graduate (CSUB, May 2025)  
 💻 Software Engineer (SWE Intern @ FWD Dynamics) | Backend & Full-Stack 
-🔧 I like working close to the data, building APIs, and making projects actually run in the real world
+🔧 I like tackling complex problems and turning ideas into working applications
 
 ---
 
