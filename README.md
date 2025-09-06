@@ -17,7 +17,7 @@
   <a href="https://github.com/jen444x/credit-score-neural-network">
     <img src="https://img.shields.io/badge/Credit_Score_Predictor-ML_Model-orange?style=for-the-badge&logo=tensorflow" />
   </a>
-  <a href="https://github.com/jen444x/RockyConcrete">
+  <a href="https://github.com/jen444x/jen444x.github.io">
     <img src="https://img.shields.io/badge/RockyConcrete-Business_Site-lightgrey?style=for-the-badge&logo=astro" />
   </a>
 </p>
