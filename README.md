@@ -14,7 +14,7 @@
   <a href="https://github.com/jen444x/job-alert-automation">
     <img src="https://img.shields.io/badge/Job_Alert_Automation-Web_Scraper-blue?style=for-the-badge&logo=python" />
   </a>
-  <a href="https://github.com/jen444x/Credit-Score-Predictor">
+  <a href="https://github.com/jen444x/credit-score-neural-network">
     <img src="https://img.shields.io/badge/Credit_Score_Predictor-ML_Model-orange?style=for-the-badge&logo=tensorflow" />
   </a>
   <a href="https://github.com/jen444x/RockyConcrete">
