@@ -39,5 +39,6 @@
 ---
 
 ## 📫 Let’s Connect
+- [Personal Website](https://www.jennifermiranda.dev/)
 - [LinkedIn](www.linkedin.com/in/jennifer-miranda-892687239)  
 - [Email](mailto:miranda.jennifer0407@gmail.com)  
